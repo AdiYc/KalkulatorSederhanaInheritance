@@ -8,7 +8,7 @@
  * Github: https://github.com/AdiYc
  */
 
-package kalkulator.tugas;
+package tugas;
 
 
 // import package
